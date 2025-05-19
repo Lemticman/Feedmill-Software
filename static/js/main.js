@@ -1,0 +1,1 @@
+document.getElementById("root").innerText = "React Frontend Loaded Successfully!";
